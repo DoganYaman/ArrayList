@@ -1,8 +1,8 @@
 # ArrayList
 
-Add()
-AddRange()
-Sort()
-BinarySearch()
-Reverse()
-Clear()
+* Add()
+* AddRange()
+* Sort()
+* BinarySearch()
+* Reverse()
+* Clear()
